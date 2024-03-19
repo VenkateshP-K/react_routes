@@ -1,0 +1,10 @@
+.nav{
+  background-color:lightskyblue;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+  color: white;
+}
+body{
+  background-color:lightblue;
+}
